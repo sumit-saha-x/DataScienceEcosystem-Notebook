@@ -19,5 +19,5 @@ This Jupyter Notebook, **DataScienceEcosystem.ipynb**, provides a concise summar
 1. Clone or download the repository:  
    ```bash
    git clone <your-repo-link>
-2.Open the notebook in Jupyter Notebook, JupyterLab, or Google Colab.
+2.Open the notebook in Jupyter Notebook, JupyterLab, or Google Colab. 
 3.Run each cell to view outputs and markdown explanations.
